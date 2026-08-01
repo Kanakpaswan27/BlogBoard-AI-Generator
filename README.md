@@ -7,7 +7,7 @@
 **BlogBoard** is an end-to-end, fully automated blogging infrastructure that entirely eliminates human dependency from content delivery pipelines. Powered by a stateful multi-agent system, it autonomously researches global tech trends, writes production-grade technical articles, formats them cleanly, and instantly deploys the content directly onto a live static frontend server.
 
 > **✨ Developed For:** FutureTech HackFest 2026  
-> **👩‍💻 Developer:** Kanak (BCA 2nd Year)  
+> **👩‍💻 Developer:** Kanak Kumari (BCA 2nd Year)  
 
 ---
 
