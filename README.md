@@ -66,7 +66,7 @@ The platform orchestrates operations via 3 isolated, specialized agent entities:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com
-cd YOUR_REPO_NAME
+cd BlogBoard-AI-Generator
 ```
 
 ### 2. Create and Activate Virtual Environment
