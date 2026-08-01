@@ -1,11 +1,5 @@
 # 🤖 BlogBoard — Autonomous AI Article Generator & Publisher  
 
-<p align="center">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="LangGraph">
-  <img src="https://shields.io" alt="Groq">
-  <img src="https://shields.io" alt="Frontend">
-</p>
 
 ---
 
