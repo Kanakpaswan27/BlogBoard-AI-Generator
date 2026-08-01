@@ -32,7 +32,7 @@ Explore the system UI, agent runtime operations, and dynamic content layouts bel
 ### 3. Fully Responsive Technical Blog Layout
 <!-- INSERT A SCREENSHOT OF A FULLY OPENED BLOG POST ARTICLE HERE -->
 <p align="center">
-  ![Uploading image.png…]()
+  <img width="1579" height="791" alt="image" src="https://github.com/user-attachments/assets/0d922082-0e44-4f34-bbf2-2f38561243f5" />
 
 </p>
 
